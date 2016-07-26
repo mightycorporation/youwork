@@ -1,7 +1,7 @@
 {
   "name": "youwork",
   "version": "1.0.0",
-  "description": "YouWork est la nouvelle plateforme qui revolutionera le monde du travail autonome, et la recherche de main d'oeuvre.",
+  "description": "Super plateforme",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
